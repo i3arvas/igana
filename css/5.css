@@ -1,0 +1,20 @@
+body{
+    background-color: rgb(49, 48, 48);
+}
+
+.topo {
+    background-color: rgb(255, 255, 255);
+}
+
+.sm {
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
+h1 {
+    color: rgb(99, 192, 130);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
